@@ -6,5 +6,24 @@
     <string name="hello_world">Hello world!</string>
     <string name="query_hint">Enter Search Term</string>
     <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="title_activity_filter">FilterActivity</string>
+
+    <string-array name="image_size_array">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+    <string-array name="color_filter_array">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+
+    <string-array name="image_type_array">
+        <item>JPG</item>
+        <item>PNG</item>
+        <item>GIF</item>
+    </string-array>
 
 </resources>
